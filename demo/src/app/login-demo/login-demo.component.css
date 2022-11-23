@@ -1,0 +1,37 @@
+
+.example-form{
+    width: 40%;
+    margin: 5% 30%;
+    padding: 50px 40px;
+    color:rgb(11, 1, 1);
+    background-color: rgb(0, 180, 245);
+    border-radius: 0%;
+    text-align: center;
+}
+
+.example-form>h5 {
+    margin-bottom: 20px;
+}
+
+.example-form>form>input {
+    margin-bottom: 20px;
+}
+
+.example-form>form>label {
+    font-size: 17px;
+    margin-bottom: 2px;
+}
+
+.example-form>form>button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    width: 518px;
+}
+
+button {
+    background:rgb(6, 158, 27) !important;
+    color:rgb(245, 245, 245) !important;
+    width:fit-content;
+    font-weight:bold;
+    font-size: medium;
+}
